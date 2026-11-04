@@ -118,7 +118,7 @@ Treat the scholarship message as suspicious, not as confirmed malicious. Its urg
 
 ### D4. AI-use declaration and evidence/reference notes
 
-AI-use declaration: OpenAI ChatGPT was used to help draft and organise the written answers, tables and explanations. The report is based on the fictional assessment scenarios. The student should personally review, verify and revise the answers before submitting them as individual work.
+AI-use declaration: OpenAI ChatGPT was used to help draft and organise the written answers, tables and explanations.
 
 Evidence note 1: EWB Assessment 01, pages 2–3: fictional email evidence, reserved example IP addresses, MFA events and the student statement. These support the scenario-specific analysis but not a confirmed attacker identity.
 
@@ -131,5 +131,3 @@ Reference note 2: CISA, “Secure Our World” (https://www.cisa.gov/secure-our-
 - `README.md` — GitHub-friendly full report.
 - `EWB_Cyber_Assessment01_Harsh_Jaiswal.docx` — editable report for review.
 - `original-assessment.pdf` — original assignment instructions.
-
-**Submission note:** EWB requests a final PDF through its official Google Form when announced. A GitHub repository does not replace that submission.
